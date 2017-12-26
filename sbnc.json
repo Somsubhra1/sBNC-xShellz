@@ -1,0 +1,31 @@
+[
+ {
+ "placeholder":"Enter the port to which sBNC would listen",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "port"
+ },
+ {
+ "placeholder":"Enter username",
+ "format":"string",
+ "type": "text",
+ "isMandatory": true,
+ "name": "username"
+ },
+ {
+ "placeholder":"Enter password for the above username",
+ "format":"string",
+ "type": "password",
+ "isMandatory": true,
+ "name": "password"
+ },
+ {
+ "placeholder":"Install shroudBNC automatically",
+ "format":"button",
+ "type": "submit",
+ "isMandatory": "true",
+ "name" : "submit",
+ "value": "Install shroudBNC now"
+ }
+]
