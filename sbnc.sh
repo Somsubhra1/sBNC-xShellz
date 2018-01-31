@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 # shroudBNC provision script, written by Som
 set -e
